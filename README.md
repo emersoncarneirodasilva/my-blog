@@ -1,6 +1,6 @@
 # My Blog
 
-My Blog consiste em um projeto de blog onde o usuário pode postar imagens, assim como descrevê-las.
+My Blog consiste em um projeto de um blog onde o usuário pode postar imagens, assim como descrevê-las.
 
 O projeto foi construído com React.js no front-end e Firebase no back-end. Foram abordados assuntos como: React router dom, hooks (useState, useEffect, useParams, useNavigate, useContext, useRef, useMemo), firebase entre outros.
 
